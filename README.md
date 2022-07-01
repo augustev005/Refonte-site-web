@@ -16,6 +16,7 @@ de voir le design pour avoir une bonne maquette conforme au consigne du brief pr
 .Secondo, nous avons entamer avec le codage de la partie front-end, et on a utilisé les langages comme HTML, CSS et un Framework BOOTSTRAP.
 #Back-end
 .En Troisième position, on a fait la conception de la partie back-End en créant une base de donnée avec le sql qu'on a connecté au partie formulaire du Front-end
-et qu'on a relié au php. Après on a fait l'hébergement du site sur always  data.
+et qu'on a relié au php. on a ajouté la dernière page du site et on a procédé de la même manière. Après on a fait l'hébergement du site sur always  data.
+
 
 
